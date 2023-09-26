@@ -8,7 +8,7 @@
 7. Опыт работы
 8. Английский язык 
 ---
-## CV
+
 1. ___Name: Yugene Surname: Tabac___
 ![photo](d:me.jpg)
 
