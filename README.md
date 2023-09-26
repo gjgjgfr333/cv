@@ -1,1 +1,1 @@
-https://gjgjgfr333.github.io/cv
+https://gjgjgfr333.github.io/cv/cv
