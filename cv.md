@@ -1,16 +1,16 @@
 # Cодержание
-1. Имя и фамилия
-2. Контакты для связи
-3. Краткая инфа о себе
-4. навыки
-5. примеры кода
-6. Образование
-7. Опыт работы
-8. Английский язык 
+1. Name and surname
+2. contacts for communication
+3. short about me
+4. skill
+5. examles code
+6. Education
+7. expiriens work
+8. english language
 ---
 
 1. ___Name: Yugene Surname: Tabac___
-![photo](d:me.jpg)
+![photo](me.jpg)
 
 2. _contacts for communication: 8-800_
 3. _short about me:_ I m Yugene, 21 yers ord. I m is a man. Me like beuty girls with big cock.
