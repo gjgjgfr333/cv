@@ -55,8 +55,20 @@ h1 {
     background: #BBB5B5;
  }
 .block{
-    border-radius: 15px 15px 15px 15px;
+    border-radius: 15px;
     border: 1px solid #868585;
     background: #BBB5B5;
     padding: 15px;
+    display: flex;
+    width: 1400px;
+    text-align: center;
 }
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0; /* Уберем отступы у body */
+}
+
+
+
